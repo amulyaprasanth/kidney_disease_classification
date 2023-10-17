@@ -5,7 +5,7 @@ from cnnClassifier import logger
 STAGE_NAME = "Prepare base model"
 
 
-class PrepareModelTrainingPipeline:
+class PrepareBaseModelTrainingPipeline:
     def __init__(self):
         pass
     
@@ -20,7 +20,7 @@ if __name__ == "__main__":
     try:
       logger.info(f"*****************************")
       logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
-      obj = PrepareModelTrainingPipeline()
+      obj = PrepareBaseModelTrainingPipeline()
       obj.main()
       logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx=================x")
     except Exception as e:

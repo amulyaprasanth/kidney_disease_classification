@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/Projects/kidney_disease_classification/mlruns/0/77b83b644f7444f59260bf5c06ad9aaf/artifacts
+end_time: 1697544464487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77b83b644f7444f59260bf5c06ad9aaf
+run_name: funny-skink-128
+run_uuid: 77b83b644f7444f59260bf5c06ad9aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697544459086
+status: 3
+tags: []
+user_id: amuly
